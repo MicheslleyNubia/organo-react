@@ -1,1 +1,1 @@
-Aprendendo React criando um organograma
+Aprendendo React
